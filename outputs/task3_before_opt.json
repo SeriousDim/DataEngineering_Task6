@@ -1,0 +1,176 @@
+[
+    {
+        "column_name": "overview",
+        "memory_abs_mb": 182.4189453125,
+        "memory_per": 19.8006,
+        "dtype": "object"
+    },
+    {
+        "column_name": "cast",
+        "memory_abs_mb": 69.9658203125,
+        "memory_per": 7.5944,
+        "dtype": "object"
+    },
+    {
+        "column_name": "writers",
+        "memory_abs_mb": 54.693359375,
+        "memory_per": 5.9367,
+        "dtype": "object"
+    },
+    {
+        "column_name": "original_title",
+        "memory_abs_mb": 46.7138671875,
+        "memory_per": 5.0706,
+        "dtype": "object"
+    },
+    {
+        "column_name": "title",
+        "memory_abs_mb": 45.2255859375,
+        "memory_per": 4.9091,
+        "dtype": "object"
+    },
+    {
+        "column_name": "poster_path",
+        "memory_abs_mb": 42.978515625,
+        "memory_per": 4.6651,
+        "dtype": "object"
+    },
+    {
+        "column_name": "directors",
+        "memory_abs_mb": 41.53125,
+        "memory_per": 4.508,
+        "dtype": "object"
+    },
+    {
+        "column_name": "tconst",
+        "memory_abs_mb": 38.09375,
+        "memory_per": 4.1349,
+        "dtype": "object"
+    },
+    {
+        "column_name": "status",
+        "memory_abs_mb": 37.1865234375,
+        "memory_per": 4.0364,
+        "dtype": "object"
+    },
+    {
+        "column_name": "production_companies",
+        "memory_abs_mb": 34.4052734375,
+        "memory_per": 3.7346,
+        "dtype": "object"
+    },
+    {
+        "column_name": "release_date",
+        "memory_abs_mb": 34.01171875,
+        "memory_per": 3.6918,
+        "dtype": "object"
+    },
+    {
+        "column_name": "genres",
+        "memory_abs_mb": 33.8017578125,
+        "memory_per": 3.6691,
+        "dtype": "object"
+    },
+    {
+        "column_name": "original_language",
+        "memory_abs_mb": 33.2421875,
+        "memory_per": 3.6083,
+        "dtype": "object"
+    },
+    {
+        "column_name": "backdrop_path",
+        "memory_abs_mb": 32.00390625,
+        "memory_per": 3.4738,
+        "dtype": "object"
+    },
+    {
+        "column_name": "production_countries",
+        "memory_abs_mb": 31.8984375,
+        "memory_per": 3.4625,
+        "dtype": "object"
+    },
+    {
+        "column_name": "keywords",
+        "memory_abs_mb": 31.197265625,
+        "memory_per": 3.3864,
+        "dtype": "object"
+    },
+    {
+        "column_name": "spoken_languages",
+        "memory_abs_mb": 30.4287109375,
+        "memory_per": 3.3029,
+        "dtype": "object"
+    },
+    {
+        "column_name": "tagline",
+        "memory_abs_mb": 29.568359375,
+        "memory_per": 3.2096,
+        "dtype": "object"
+    },
+    {
+        "column_name": "homepage",
+        "memory_abs_mb": 24.326171875,
+        "memory_per": 2.6405,
+        "dtype": "object"
+    },
+    {
+        "column_name": "id",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "vote_average",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "vote_count",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "revenue",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "runtime",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "budget",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "popularity",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "averageRating",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "numVotes",
+        "memory_abs_mb": 5.2138671875,
+        "memory_per": 0.566,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "adult",
+        "memory_abs_mb": 0.6513671875,
+        "memory_per": 0.0708,
+        "dtype": "bool"
+    }
+]
